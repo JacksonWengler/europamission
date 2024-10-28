@@ -10,7 +10,7 @@ main:
   - title: "Section 2"
     url: /#section-2
     blank: false
-  - title: "Section 3"
+  - title: "Why"
     url: /#section-3
     blank: false
   - title: "Section 4"
