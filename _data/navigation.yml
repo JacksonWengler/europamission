@@ -3,7 +3,7 @@ main:
   - title: "Stem Academy"
     url: https://www.neisd.net/stemms
     blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
+    description: "Stem Academy Homepage"
   - title: "About"
     url: /#section-1
     blank: false
