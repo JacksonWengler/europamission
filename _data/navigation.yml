@@ -16,3 +16,6 @@ main:
   - title: "Section 4"
     url: /#section-4
     blank: false
+    - title: "Section 5"
+    url: /#section-5
+    blank: false
