@@ -1,3 +1,9 @@
+.tablecontainer {
+    position: relative;
+}
+
+
+
 .table {
         position: absolute;
            top: 50%;
