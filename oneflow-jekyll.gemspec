@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name                    = "oneflow-jekyll"
   spec.version                 = "1.0"
-  spec.authors                 = ["Per Starke"]
+  spec.authors                 = ["jackson wengler"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
-  spec.homepage                = "https://github.com/perstarke-webdev/oneflow-jekyll-theme"
+  spec.homepage                = "https://github.com/JacksonWengler/europamsiion"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
