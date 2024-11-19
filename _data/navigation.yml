@@ -4,10 +4,10 @@ main:
     url: https://www.neisd.net/stemms
     blank: true
     description: "Stem Academy Homepage"
-  - title: "About"
+  - title: "About and What"
     url: /#section-1
     blank: false
-  - title: "Inspiration and Why"
+  - title: "Inspiration/Problems"
     url: /#section-2
     blank: false
   - title: "Funding"
