@@ -7,12 +7,12 @@ main:
   - title: "About"
     url: /#section-1
     blank: false
-  - title: "Inspiration"
+  - title: "Inspiration and Why"
     url: /#section-2
     blank: false
-  - title: "Why"
+  - title: "Funding"
     url: /#section-3
     blank: false
-  - title: "Funding"
+  - title: "Resources"
     url: /#section-4
     blank: false
